@@ -24,7 +24,7 @@ test-cases:
       Проверка языковой поддержки интернет-магазина
     status: fail
 
-  bug-reports:
+  bugreports:
     - summary: 
         Фильтрация товаров по стоимости работает неправильно 
       environment: |
