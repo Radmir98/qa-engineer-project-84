@@ -88,7 +88,7 @@ test-cases:
       expected-result: |
         Отобразилась карточка товара в нормальной верстке 
       actual-result: |
-        Карточка товара сплющилась. Ошибка представлена на скриншотах (Screenshots/SearchBarBug_1920_1080, Screenshots/SearchBarBug_768_1024)
+        Карточка товара сплющилась. Ошибка представлена на скриншотах (Screenshots/SearchBarBug_1920_1080.png, Screenshots/SearchBarBug_768_1024.png)
 
     - summary: 
         После нажатия кнопки "Магазин" перевод текста возвращается на английский язык    
