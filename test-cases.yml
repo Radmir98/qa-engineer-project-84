@@ -33,7 +33,7 @@
   prerequisites: 
     Открыта страница с товарами https://hexlet-products-store.vercel.app/ 
   test-data: 
-    -
+    - empty
   steps: 
     - Нажимаем на картинку любого товара
   expected-result: 
@@ -46,7 +46,7 @@
   prerequisites: 
     Открыта страница с товарами https://hexlet-products-store.vercel.app/ 
   test-data: 
-    -
+    - empty
   steps: 
     - Выбираем любой товар
     - Нажимаем кнопку "Добавить в корзину"
@@ -102,7 +102,7 @@
   prerequisites: 
     Открыта страница с товарами https://hexlet-products-store.vercel.app/ 
   test-data: 
-    - 
+    - empty
   steps: 
     - Перелистываем страницы каталога товаров интернет-магазина вперед и назад 
   expected-result: 
@@ -240,7 +240,7 @@
   prerequisites: 
     Открыта страница с товарами https://hexlet-products-store.vercel.app/ 
   test-data: 
-    -  
+    - empty
   steps: 
     - Нажать на кнопку "Следующая" и переместиться на следующую страницу каталога 
     - Дойти до конца каталога 
