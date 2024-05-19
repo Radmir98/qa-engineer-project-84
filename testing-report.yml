@@ -71,6 +71,14 @@
 - summary: 
     Проверка строки поиска на негативные сценарии  
   status: pass
+
+- summary: 
+    Тестирование в другом браузере  
+  status: pass
+
+  - summary: 
+    Проверка запросов  
+  status: pass
   
   
     
